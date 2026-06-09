@@ -101,6 +101,7 @@ if a project uses a different license, it'll usually be mentioned directly in th
 > python
 > html/css
 > C#
+> C++
 > PHP
 ```
 
