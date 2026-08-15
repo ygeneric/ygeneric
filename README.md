@@ -20,7 +20,7 @@ sometimes it's completely closed source.
 it varies.
 
 most of my stuff falls under the "**partially open sourced**" category.
-
+i told my friend i might buy a skirt
 ---
 
 ## partially open sourced?
