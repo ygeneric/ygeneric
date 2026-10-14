@@ -108,7 +108,7 @@ if a project uses a different license, it'll usually be mentioned directly in th
 ## contact
 
 ```txt
-discord : @j3hj
+discord : @gnerc
 github  : @ygeneric (right here)
 website : www.generic.city
 ```
